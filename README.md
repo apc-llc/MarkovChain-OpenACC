@@ -1,4 +1,4 @@
-This is a demonstration of OpenACC usage inside of R package
+## A demonstration of OpenACC usage inside of R package
 
 Based on original CPU MarkovChain package: https://github.com/Orbifold/Rcpp
 
@@ -9,7 +9,6 @@ R version 3.0.2 (2013-09-25) -- "Frisbee Sailing"
 
 > library(MarkovChain)
 > m = new("MarkovChain", c("a", "a", "b"), TRUE)
-libcupti.so not found
 Using OpenACC implementation of MarkovChain
 > q()
 Save workspace image? [y/n/c]: n
