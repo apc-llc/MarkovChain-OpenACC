@@ -48,5 +48,5 @@ Accelerator Kernel Timing data
 
 ### References
 
-1. [https://cran.r-project.org/web/packages/Rcpp/vignettes/Rcpp-package.pdf Writing a package that uses Rcpp]
+1. [Writing a package that uses Rcpp](https://cran.r-project.org/web/packages/Rcpp/vignettes/Rcpp-package.pdf Writing a package that uses Rcpp)
 
