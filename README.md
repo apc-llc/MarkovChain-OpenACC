@@ -2,6 +2,24 @@
 
 Based on original CPU MarkovChain package: https://github.com/Orbifold/Rcpp
 
+### Prerequisites
+
+Install the `Rcpp` package, e.g. on Ubuntu:
+
+```
+$ sudo apt-get install r-cran-rcpp
+```
+
+### Build
+
+```
+$ git clone https://github.com/apc-llc/MarkovChain-OpenACC.git
+$ cd MarkovChain
+$ make
+```
+
+### Run
+
 ```
 $ PGI_ACC_TIME=1 R
 
