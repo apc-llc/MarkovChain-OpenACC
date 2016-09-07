@@ -45,3 +45,8 @@ Accelerator Kernel Timing data
         19: data copyout transfers: 1
              device time(us): total=11 max=11 min=11 avg=11
 ```
+
+### References
+
+1. [https://cran.r-project.org/web/packages/Rcpp/vignettes/Rcpp-package.pdf Writing a package that uses Rcpp]
+
