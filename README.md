@@ -14,7 +14,7 @@ $ sudo apt-get install r-cran-rcpp
 
 ```
 $ git clone https://github.com/apc-llc/MarkovChain-OpenACC.git
-$ cd MarkovChain
+$ cd MarkovChain-OpenACC
 $ make
 ```
 
